@@ -11,5 +11,7 @@ Local herders in southern kenya encounter challenges in deciding when to sell th
 
 ## Product development
 The attached [Rmarkdown](./Results_Lena.Rmd) file has achieved the above objectives. In addition to that I have developed and deployed a User friendly application to showcase monthly price prediction.
+
+The exploratory data analysis and model fitting was done in [this](./Results_Lena.pdf)
 ## Deployment
 The application was published to rshiny on the following [link](https://lenaanyango.shinyapps.io/MarketPrices/)
